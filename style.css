@@ -1,0 +1,65 @@
+@font-face {
+    font-family: Futurak;
+    src: url(futurak.ttf);
+}
+
+.salt{
+    font-family: Futurak;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+
+}
+nav{
+display: flex;
+justify-content: center;
+gap: 170px;
+background-color: black;
+}
+.hi{
+    gap: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: large;
+}
+.btn1{
+    width: 120px;
+    height: 50px;
+    background-color: red;
+    border-radius: 25px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+
+}
+.btn2{
+    background-color: black;
+    color: aliceblue;
+    border-radius:25px ;
+    width: 120px;
+    height: 50px;
+    border-color: aliceblue;
+}
+.tab{
+    display: flex;
+    flex-direction: column; 
+}
+.allbtn{
+background-color: black;
+border-color: #fff;
+border-radius: 35px;
+color: #fff;
+width: 120px;
+height: 60px;    
+
+}
+.bg{
+    background-color:black;
+}
+.res{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
